@@ -2,7 +2,7 @@ ilk satır kod2
 
 
 
-
-
-
 DEASBOARD3_KODLARI deashboard3_kodları
+
+CHAT_KODLARI chat_kodları
+
