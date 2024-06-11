@@ -1,1 +1,4 @@
 ilk satır kod2
+
+
+CHAT_KODLARI chat_kodları
